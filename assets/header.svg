@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0B1F4B"/><stop offset=".55" stop-color="#1D4ED8"/><stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <style>
+      .n { font: 800 64px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #fff; }
+      .t { font: 600 30px Menlo, Consolas, 'Courier New', monospace; fill: #DBEAFE; }
+    </style>
+  </defs>
+  <path fill="url(#g)" d="M0 0 H1200 V230 C 983.9999999999999 290, 744.0 180, 504.0 245 C 300.0 300, 120.0 260, 0 220 Z"/>
+  <path fill="#ffffff" fill-opacity=".07" d="M0 190 C 240.0 260, 540.0 150, 840.0 220 C 1020.0 260, 1140.0 210, 1200 180 V230 C 983.9999999999999 290, 744.0 180, 504.0 245 C 300.0 300, 120.0 260, 0 220 Z"/>
+  <text x="600.0" y="130" text-anchor="middle" class="n">Miguel Lima</text>
+  
+  <clipPath id="c0"><rect x="420.0" y="175" height="42" width="0">
+    <animate attributeName="width" dur="12.8s" repeatCount="indefinite" values="0.0;364.0;364.0;0.0;0.0;0.0" keyTimes="0.0000;0.0875;0.2000;0.2375;0.2500;1.0000"/>
+  </rect></clipPath>
+  <text x="420.0" y="205" clip-path="url(#c0)" class="t">Oi, eu sou o Miguel!</text>
+  <rect y="179" width="3" height="32" fill="#7DD3FC" x="420.0">
+    <animate attributeName="x" dur="12.8s" repeatCount="indefinite" values="420.0;784.0;784.0;420.0;420.0;420.0" keyTimes="0.0000;0.0875;0.2000;0.2375;0.2500;1.0000"/>
+    <animate attributeName="opacity" dur="12.8s" repeatCount="indefinite"
+      values="0;0;1;1;0;0" keyTimes="0;0.0000;0.0001;0.2375;0.2376;1"/>
+  </rect>
+  <clipPath id="c1"><rect x="375.0" y="175" height="42" width="0">
+    <animate attributeName="width" dur="12.8s" repeatCount="indefinite" values="0.0;0.0;454.0;454.0;0.0;0.0;0.0" keyTimes="0.0000;0.2500;0.3375;0.4500;0.4875;0.5000;1.0000"/>
+  </rect></clipPath>
+  <text x="375.0" y="205" clip-path="url(#c1)" class="t">IA generativa + automação</text>
+  <rect y="179" width="3" height="32" fill="#7DD3FC" x="375.0">
+    <animate attributeName="x" dur="12.8s" repeatCount="indefinite" values="375.0;375.0;829.0;829.0;375.0;375.0;375.0" keyTimes="0.0000;0.2500;0.3375;0.4500;0.4875;0.5000;1.0000"/>
+    <animate attributeName="opacity" dur="12.8s" repeatCount="indefinite"
+      values="0;0;1;1;0;0" keyTimes="0;0.2500;0.2501;0.4875;0.4876;1"/>
+  </rect>
+  <clipPath id="c2"><rect x="384.0" y="175" height="42" width="0">
+    <animate attributeName="width" dur="12.8s" repeatCount="indefinite" values="0.0;0.0;436.0;436.0;0.0;0.0;0.0" keyTimes="0.0000;0.5000;0.5875;0.7000;0.7375;0.7500;1.0000"/>
+  </rect></clipPath>
+  <text x="384.0" y="205" clip-path="url(#c2)" class="t">Do problema ao resultado</text>
+  <rect y="179" width="3" height="32" fill="#7DD3FC" x="384.0">
+    <animate attributeName="x" dur="12.8s" repeatCount="indefinite" values="384.0;384.0;820.0;820.0;384.0;384.0;384.0" keyTimes="0.0000;0.5000;0.5875;0.7000;0.7375;0.7500;1.0000"/>
+    <animate attributeName="opacity" dur="12.8s" repeatCount="indefinite"
+      values="0;0;1;1;0;0" keyTimes="0;0.5000;0.5001;0.7375;0.7376;1"/>
+  </rect>
+  <clipPath id="c3"><rect x="330.0" y="175" height="42" width="0">
+    <animate attributeName="width" dur="12.8s" repeatCount="indefinite" values="0.0;0.0;544.0;544.0;0.0;0.0" keyTimes="0.0000;0.7500;0.8375;0.9500;0.9875;1.0000"/>
+  </rect></clipPath>
+  <text x="330.0" y="205" clip-path="url(#c3)" class="t">Python · JavaScript · Power BI</text>
+  <rect y="179" width="3" height="32" fill="#7DD3FC" x="330.0">
+    <animate attributeName="x" dur="12.8s" repeatCount="indefinite" values="330.0;330.0;874.0;874.0;330.0;330.0" keyTimes="0.0000;0.7500;0.8375;0.9500;0.9875;1.0000"/>
+    <animate attributeName="opacity" dur="12.8s" repeatCount="indefinite"
+      values="0;0;1;1;0;0" keyTimes="0;0.7500;0.7501;0.9875;0.9876;1"/>
+  </rect>
+</svg>
