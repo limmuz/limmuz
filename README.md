@@ -34,7 +34,7 @@
 |---|---|---|
 | **[Quiz ao vivo](https://github.com/limmuz/quiz-ao-vivo)** · [testar](https://limmuz.github.io/quiz-ao-vivo/) | Quiz estilo Kahoot para 100+ pessoas, com QR code, ranking e pódio | HTML · CSS · JS · WebRTC |
 | **[Credenciamento automático](https://github.com/limmuz/credenciamento-automatico)** | Preenche sozinho o portal de credenciamento de eventos | Python · Selenium · Tkinter |
-| **[Central de Engenharia](https://limmuz.github.io/#projetos)** | Sistema interno de custos de eventos, NFs, budget e documentos | Python · Flask · SQLite · Chart.js |
+| **[Central de Engenharia](https://github.com/limmuz/central-eventos)** | Sistema interno de custos de eventos, NFs, budget e documentos | Python · Flask · SQLite · Chart.js |
 | **[CONECTA](https://github.com/Conecta-PI/Front)** | CRM para microempreendedor (Projeto Integrador) | Figma · React Native |
 
 **Veja tudo no portfólio: [limmuz.github.io](https://limmuz.github.io)**
