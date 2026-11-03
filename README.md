@@ -1,13 +1,13 @@
 <img src="assets/header.svg" alt="Miguel Lima: IA generativa, automação e dados" width="100%">
 
-###  Sobre mim
+### Sobre mim
 
--  Estudante de **Análise e Desenvolvimento de Sistemas** no Senac (conclusão em 2026)
--  Assistente Administrativo na área de Engenharia de uma arena de eventos em São Paulo
--  Uso **agentes de IA** (Claude Code), prompt engineering e vibe coding para transformar processos manuais em sistemas e automações
--  Criei e mantenho uma central web que substituiu planilhas e macros da minha área, usada por ~20 pessoas
+- Estudante de **Análise e Desenvolvimento de Sistemas** no Senac (conclusão em 2026)
+- Assistente Administrativo na área de Engenharia de uma arena de eventos em São Paulo
+- Uso **agentes de IA** (Claude Code), prompt engineering e vibe coding para transformar processos manuais em sistemas e automações
+- Criei e mantenho uma central web que substituiu planilhas e macros da minha área, usada por ~20 pessoas
 
-### 🛠️ Minhas skills
+### Skills
 
 <div>
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
@@ -28,25 +28,22 @@
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
 </div>
 
-### 🚀 Projetos em destaque
+### Projetos em destaque
 
-| | Projeto | O que resolve | Stack |
-|:-:|---|---|---|
-| 🎯 | **[Quiz ao vivo](https://github.com/limmuz/quiz-ao-vivo)** · [testar](https://limmuz.github.io/quiz-ao-vivo/) | Quiz estilo Kahoot para 100+ pessoas, com QR code, ranking e pódio | HTML · CSS · JS · WebRTC |
-| 🎫 | **[Credenciamento automático](https://github.com/limmuz/credenciamento-automatico)** | Preenche sozinho o portal de credenciamento de eventos | Python · Selenium · Tkinter |
-| 🏗️ | **[Central de Engenharia](https://limmuz.github.io/#projetos)** | Sistema interno de custos de eventos, NFs, budget e documentos | Python · Flask · SQLite · Chart.js |
-| 📱 | **[CONECTA](https://github.com/Conecta-PI/Front)** | CRM para microempreendedor (Projeto Integrador) | Figma · React Native |
+| Projeto | O que resolve | Stack |
+|---|---|---|
+| **[Quiz ao vivo](https://github.com/limmuz/quiz-ao-vivo)** · [testar](https://limmuz.github.io/quiz-ao-vivo/) | Quiz estilo Kahoot para 100+ pessoas, com QR code, ranking e pódio | HTML · CSS · JS · WebRTC |
+| **[Credenciamento automático](https://github.com/limmuz/credenciamento-automatico)** | Preenche sozinho o portal de credenciamento de eventos | Python · Selenium · Tkinter |
+| **[Central de Engenharia](https://limmuz.github.io/#projetos)** | Sistema interno de custos de eventos, NFs, budget e documentos | Python · Flask · SQLite · Chart.js |
+| **[CONECTA](https://github.com/Conecta-PI/Front)** | CRM para microempreendedor (Projeto Integrador) | Figma · React Native |
 
-👉 **Veja tudo no portfólio: [limmuz.github.io](https://limmuz.github.io)**
+**Veja tudo no portfólio: [limmuz.github.io](https://limmuz.github.io)**
 
-### 📊 Estatísticas
+### Estatísticas
 
-<div>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=limmuz&show_icons=true&hide_border=true&bg_color=0B1F4B&title_color=7DD3FC&icon_color=38BDF8&text_color=DBEAFE&locale=pt-br" alt="Estatísticas do GitHub">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=limmuz&layout=compact&hide_border=true&bg_color=0B1F4B&title_color=7DD3FC&text_color=DBEAFE&locale=pt-br" alt="Linguagens mais usadas">
-</div>
+<img src="assets/stats.svg" alt="Estatísticas do GitHub" width="49%"> <img src="assets/langs.svg" alt="Linguagens mais usadas" width="49%">
 
-### 📫 Contato
+### Contato
 
 <a href="https://limmuz.github.io"><img src="https://img.shields.io/badge/Portfólio-1D4ED8?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio"></a>
 <a href="https://www.linkedin.com/in/miguel-luiz-lima-nascimento-9a5010258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
