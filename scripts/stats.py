@@ -37,9 +37,9 @@ def esc(s):
     return str(s).replace("&", "&amp;").replace("<", "&lt;")
 
 linhas = [("Repositórios públicos", len(repos)), ("Commits", commits), ("Pull requests", prs),
-          ("Estrelas recebidas", estrelas), ("Seguidores", user.get("followers", 0))]
+          ("Linguagens usadas", len(ling))]
 W, H = 440, 200
-txt = "".join(f'<text x="30" y="{78 + i*24}" class="l">{esc(a)}</text><text x="{W-30}" y="{78 + i*24}" class="v" text-anchor="end">{b}</text>'
+txt = "".join(f'<text x="30" y="{82 + i*28}" class="l">{esc(a)}</text><text x="{W-30}" y="{82 + i*28}" class="v" text-anchor="end">{b}</text>'
               for i, (a, b) in enumerate(linhas))
 stats = f'''<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}">
 <style>.t{{font:600 18px 'Segoe UI',Helvetica,Arial,sans-serif;fill:{COR["titulo"]}}}.l{{font:400 14px 'Segoe UI',Helvetica,Arial,sans-serif;fill:{COR["texto"]}}}.v{{font:700 14px 'Segoe UI',Helvetica,Arial,sans-serif;fill:{COR["icone"]}}}</style>
