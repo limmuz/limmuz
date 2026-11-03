@@ -21,6 +21,9 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
@@ -36,6 +39,7 @@
 | **[Quiz ao vivo](https://github.com/limmuz/quiz-ao-vivo)** · [testar](https://limmuz.github.io/quiz-ao-vivo/) | Quiz estilo Kahoot para 100+ pessoas, com QR code, ranking e pódio | HTML · CSS · JS · WebRTC |
 | **[Credenciamento automático](https://github.com/limmuz/credenciamento-automatico)** | Preenche sozinho o portal de credenciamento: de 30 para menos de 5 min por evento | Python · Selenium · Tkinter |
 | **[Central de Engenharia](https://github.com/limmuz/central-eventos)** · [demo ao vivo](https://limmuz.github.io/central-demo/) | Sistema interno de custos de eventos, NFs, budget e documentos; relatório pós-evento de 1h30 para 30 min | Python · Flask · SQLite · Chart.js |
+| **[Lybre](https://github.com/limmuz/biblioteca)** (em grupo) | Biblioteca pessoal com rede de leitores; criei a base e a suíte de testes (cobertura acima de 88%) | Java · Spring Boot · React · MongoDB · JUnit |
 | **[CONECTA](https://github.com/Conecta-PI/Front)** | CRM para microempreendedor (Projeto Integrador) | Figma · React Native |
 
 **Veja tudo no portfólio: [limmuz.github.io](https://limmuz.github.io)**
