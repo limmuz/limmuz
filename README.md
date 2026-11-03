@@ -1,12 +1,11 @@
 <img src="assets/header.svg" alt="Miguel Lima: IA generativa, automação e dados" width="100%">
 
-### 👋 Sobre mim
+###  Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no Senac (conclusão em 2026)
-- 💼 Assistente Administrativo na área de Engenharia de uma arena de eventos em São Paulo
-- 🤖 Uso **agentes de IA** (Claude Code), prompt engineering e vibe coding para transformar processos manuais em sistemas e automações
-- 🏗️ Criei e mantenho uma central web que substituiu planilhas e macros da minha área, usada por ~20 pessoas
-- 👨‍🏫 Ensino HTML e CSS para adolescentes num projeto de extensão da faculdade
+-  Estudante de **Análise e Desenvolvimento de Sistemas** no Senac (conclusão em 2026)
+-  Assistente Administrativo na área de Engenharia de uma arena de eventos em São Paulo
+-  Uso **agentes de IA** (Claude Code), prompt engineering e vibe coding para transformar processos manuais em sistemas e automações
+-  Criei e mantenho uma central web que substituiu planilhas e macros da minha área, usada por ~20 pessoas
 
 ### 🛠️ Minhas skills
 
