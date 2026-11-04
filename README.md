@@ -5,7 +5,7 @@
 - Estudante de **Análise e Desenvolvimento de Sistemas** no Senac (conclusão em 2026)
 - Assistente Administrativo na área de Engenharia de uma arena de eventos em São Paulo
 - Uso **agentes de IA** (Claude Code), prompt engineering e vibe coding para transformar processos manuais em sistemas e automações
-- Criei e mantenho uma central web que substituiu planilhas e macros da minha área, usada por ~20 pessoas
+- Criei e mantenho uma central web que deixa a consulta de custos de eventos em segundos, usada por ~10 pessoas da minha área e de áreas parceiras
 - Minhas automações economizam **até 14 horas por mês** da equipe (credenciamento 85% mais rápido, relatório pós-evento 67% mais rápido)
 
 ### Skills
